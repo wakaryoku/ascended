@@ -62,7 +62,9 @@
                 }
             }
         ],
-        "link1": {
+        "links": [
+            {
+                "link1": {
                     "text": "Discord",
                     "url": "https://discord.gg/faSmz7Qd7T"
                 }
