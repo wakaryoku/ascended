@@ -16,7 +16,7 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "Welcome" "<TextStyle.Red>1 Box layout</>",
+                    "buttontext": "Welcome",
                     "title1": "Welcome to Chernobyl!",
                     "text1": "I hope everyone enjoys their stay here. I'm hoping we can all play the game and enjoy it together. \n\nMake sure to join the discord from the invite tab. ",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
@@ -62,23 +62,9 @@
                 }
             }
         ],
-        "links": [
-            {
-                "link1": {
-                    "text": "Link to Wiki",
-                    "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
-                }
-            },
-            {
-                "link2": {
-                    "text": "Link to discord",
+        "link1": {
+                    "text": "Discord",
                     "url": "https://discord.gg/faSmz7Qd7T"
-                }
-            },
-            {
-                "link3": {
-                    "text": "Link to google",
-                    "url": "https://google.com"
                 }
             }
         ]
