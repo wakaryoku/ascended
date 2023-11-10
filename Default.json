@@ -16,20 +16,20 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "Welcome Fishywishy",
+                    "buttontext": "Welcome",
                     "title1": "Welcome to Chernobyl!",
-                    "text1": "I hope everyone enjoys their stay here. I'm hoping we can all play the game and enjoy it together. \n\nMake sure to join the discord from the invite tab. ",
+                    "text1": "I hope everyone enjoys their stay here. I'm hoping we can all play the game and enjoy it together. \n\nMake sure to join the discord and make a tribe. It'll be important for providing support. ",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
             {
                 "tab2": {
                     "layout": 2,
-                    "buttontext": "2 Box layout",
-                    "title1": "Left title",
-                    "title2": "Right title",
-                    "text1": "This text goes into the left box",
-                    "text2": "This text goes into the right box",
+                    "buttontext": ".ini[WIP]",
+                    "title1": "Game.ini",
+                    "title2": "GameUserSettings.ini",
+                    "text1": "BabyCuddleIntervalMultiplier=0.0232 \nMatingIntervalMultiplier=0.0242 \nEggHatchSpeedMultiplier=30 \nGenericXPMultiplier=3 \nbAllowSpeedLeveling=True \nbAllowFlyerSpeedLeveling=True \n\n -All other .ini settings are base!",
+                    "text2": "TamingSpeedMultiplier=2.5 \nHarvestAmountMultiplier=2.5 \nAllowFlyerCarryPvE=True \nServerPVE=true \n-All other settings remain unchanged other than mod settings",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
