@@ -49,15 +49,15 @@
             {
                 "tab4": {
                     "layout": 4,
-                    "buttontext": "4 Box layout",
-                    "title1": "Top left title",
-                    "title2": "<TextStyle.Green>Top right title</>",
-                    "title3": "<TextStyle.Blue>bottom left title</>",
-                    "title4": "<TextStyle.Yellow>bottom right title</>",
-                    "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-                    "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-                    "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-                    "text4": "<TextStyle.White>This text goes into the bottom right box</>",
+                    "buttontext": "Base Rules",
+                    "title1": "c;",
+                    "title2": ":D",
+                    "title3": ":P",
+                    "title4": "^.-",
+                    "text1": "A. Bases cannot be larger than 40x40 foundations and are limited to 1 base per map per player/tribe. Gated/blocked/inaccessible areas count towards the max base size. \nB. All caves MUST remain accessible to the public. \nC. Do not block or build around artifacts, pathways, or ramps that are part of the map.",
+                    "text2": "D. Do not build in resource-abundant areas. This includes building in a way that prevents certain dinos from spawning (beavers, kairuku, etc) \nE. Building on obelisks or in their respective craters is not allowed. \nF. Please limit your amount of non-essential tames. Due to no cryopods/soul traps currently, we need everyone to cooperate with limiting their tames to ones that serve a purpose. Please no collecting unnecessary dinos.",
+                    "text3": "G. Pick up your taming pens when you are done using them. \nH. No structure spamming. The Admin team will proactively remove structure spam. If your spam is found to be especially egregious, you will be TRIBE STRUCTURE WIPED. Please help make our job easier by not placing unnecessary structures. \nI. Distance yourself as far as possible from other player structures. Do not attempt to block another tribe from building with gates/pillars/foundations/etc. Be respectful and kind to each other. If you are built in proximity to another tribe, please attempt to coordinate with them to prevent land disputes.",
+                    "text4": "J. Do not block or build near spawn points, as it can prevent new players from entering the game and create a frustrating experience for them. Any structures reported to be built on spawn points which prevent players from spawning correctly may be removed without warning. \nK. Limit the number of turrets you place around your base to avoid creating excessive lag on the server.",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             }
