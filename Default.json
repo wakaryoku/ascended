@@ -37,12 +37,12 @@
                 "tab3": {
                     "layout": 3,
                     "buttontext": "Rules",
-                    "title1": "Server Rules/Base Rules",
-                    "title2": "Top right title",
-                    "title3": "Bottom left title",
+                    "title1": "Server Rules",
+                    "title2": "Please Read",
+                    "title3": "Contacts",
                     "text1": "1. Upon joining a server for the first time, you MUST set a tribe name. Tribe logs are necessary for our Admin team to give you quality support. If you do not have a tribe name set, you will not receive Admin support for any losses. \n2. Do not log off with important items in your inventory. Any items or dinos lost while offline are your responsibility. The safest place to leave your items currently is within a vault. \n3. You may leave one or two dinos on Neutral or Attack My Target while offline to protect your tames; all others must be on passive. \n4. To ensure that everyone can communicate effectively, we require all players and users to use English in-game and on the Discord server. This will ensure that all players have access to the same information and can take part in conversations without any language barriers. \n5. Anyone found to be utilizing exploits will be banned. This includes any bugs or meshing, regardless of its use being to gain an advantage or just for fun. We will not tolerate players utilizing exploits.",
-                    "text2": "This text goes into the top right box",
-                    "text3": "This text goes into the bottom right box",
+                    "text2": "Just remember above all else to be kind to one another. All of us are human and on the same time in life. Let's show our passion for the game in an appropriate way. \n\nP.S. Don't wipe anyone during tribe war, this is primarily a pve server and can only take what each tribe puts in the war vault.",
+                    "text3": "Contact Waka the server onwer on discord or any of the other admins or mods. Please feel free to reach out even if it's just that you want clarification.",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
